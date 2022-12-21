@@ -2,6 +2,7 @@
 
 This project was built while interning at Gustovalley Technovations LLP as a Machine Learning intern.
 
-This project involved numerous steps before obtaining a final prediction system. 
+This project involved numerous steps before obtaining a final prediction system. Following steps were implemented- 
 
-This were:
+#1.Data Collection: Collected the real-time data using Air Quality API
+
