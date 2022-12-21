@@ -4,5 +4,6 @@ This project was built while interning at Gustovalley Technovations LLP as a Mac
 
 This project involved numerous steps before obtaining a final prediction system. Following steps were implemented- 
 
-#1.Data Collection: Collected the real-time data using Air Quality API
+#Data Collection: Collected the real-time data using Air Quality API
+
 
