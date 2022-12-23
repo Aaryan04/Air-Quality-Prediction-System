@@ -1,4 +1,4 @@
-# Air-Quality-Prediction-System
+# India's-Air-Quality-Prediction-System
 
 This project was built while interning at Gustovalley Technovations LLP as a Machine Learning intern.
 
