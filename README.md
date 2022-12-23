@@ -6,7 +6,7 @@ This project involved numerous steps before obtaining a final prediction system.
 
 Step 1: Data Collection: Collected the real-time data using Air Quality API.
 
-Step 2: Understanding the Data: The obtained dataset had 435742 rows with 13 coloumns. [Link to the dataset is provided in the description section of the repository (on the right side of the your screen)]
+Step 2: Understanding the Data: The obtained dataset had 435742 rows with 13 coloumns. <i>[Link to the dataset is provided in the description section of the repository (on the right side of the your screen)]<i/>
 
 Step 3: Data Visualization: Implemented various visualization techniques
 1. Pairplot
